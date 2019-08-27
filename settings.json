@@ -1,0 +1,29 @@
+{
+    "editor.fontFamily": "'Fira Code Medium', 'Input Mono', 'IBM Plex Mono', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "window.menuBarVisibility": "toggle",
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.cursorBlinking": true,
+    "editor.wordWrap": "on",
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorWidth": 3,
+    "window.zoomLevel": 0,
+    "editor.minimap.enabled": false,
+    "editor.fontSize": 15,
+    "editor.glyphMargin": false,
+    "editor.folding": false,
+    "workbench.iconTheme": "ayu",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Material Theme Darker High Contrast",
+
+    "workbench.colorCustomizations": {
+        "statusBar.background" : "#1A1A1A",
+        "statusBar.foreground" : "#FFFFFF",
+        "statusBar.border"     : "#FFFFFF",
+        "titleBar.border"      : "#FFFFFF",
+        //"tab.border"      : "#FFFFFF"
+        "editorGroup.border"      : "#FFFFFF",
+        //"editorGroupHeader.tabsBorder" : "#FFFFFF"
+    },
+    "terminal.integrated.fontFamily": "'Fira Code Medium'"
+}
